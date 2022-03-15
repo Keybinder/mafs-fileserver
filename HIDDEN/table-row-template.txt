@@ -1,0 +1,6 @@
+<tr>
+	<td><img src="/images/$FILETYPEID.png" alt="$FILETYPEDESC"></td>
+	<td><a href="$FILEPATH">$FILENAME</a></td>
+	<td>$LASTMODIFIED</td>
+	<td>$FILESIZE</td>
+</tr>
