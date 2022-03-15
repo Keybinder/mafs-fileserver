@@ -4,6 +4,7 @@
 # This program is designed to be run at the root directory of a web server. 
 # It generates index.html pages for each and every directory/subdirectory recursively (with some hardcoded exceptions).
 # Each index.html presents the user with a table that lists and links to all files in the directory it's in, as well as displays some metadata about them.
+# There is some dumb custom stuff for the specifics of dealing with the metadata.
 # It's basically a very crappy custom generator for those "open directories" you sometimes find on the web.
 # This program expects a html template for the index and a txt template for the html for each row to be in the "HIDDEN" subdirectory.
 
